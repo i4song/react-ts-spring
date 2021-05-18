@@ -84,6 +84,6 @@ const ColorDatas = [
     css: 'linear-gradient(135deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%)',
     height: 200,
   },
-]
+];
 
 export default ColorDatas;
